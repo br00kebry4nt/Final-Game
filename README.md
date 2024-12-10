@@ -4,9 +4,9 @@ A summary of the project goals:
 
 Instructions the player may need: 
   Objective:
-    Survive the jungle by making the right choices. Avoid dangers, gather resources, and navigate toward safety.
+    Survive the jungle by making the right choices. Avoid dangers and navigate toward safety.
   Gameplay Flow:
-    Start Game: Press the "Start" button to begin.
+    Start Game
     Make Decisions: Choose from options presented in text to navigate the jungle.
     Health and Timer: Monitor your health and score.
     Endings: The game ends when you are rescued or run out of health.
@@ -17,10 +17,9 @@ A list of technologies and techniques you used:
   Programming Language: Python
   Libraries:
     time for delays and timer functionality.
-    random for simulating events and adding unpredictability.
+    pygame for gaming functionality
   Game Design Techniques:
     Branching decision trees for choices.
-    Text-based UI elements for simplicity and immersion.
     Health, points, and timer mechanics for gameplay balance.
 
 Citations for any external resources you used:
@@ -36,7 +35,7 @@ A description of your process:
 
 What did you learn?
   The importance of structuring decision trees for clear, logical progression.
-  How to use Python libraries (random, time) to create dynamic and interactive elements.
+  How to use Python libraries (time) to create dynamic and interactive elements.
 
 Where did you get stuck?
   Timer Mechanic: Implementing a countdown while allowing simultaneous input was challenging.
